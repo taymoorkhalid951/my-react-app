@@ -1,5 +1,4 @@
 {
-  "homepage": "https://taymoorkhalid951.github.io/my-react-app",
   "name": "keeper-part-3-starting",
   "version": "1.0.0",
   "description": "",
@@ -16,8 +15,6 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
